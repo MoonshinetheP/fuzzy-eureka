@@ -99,6 +99,6 @@ if __name__ == '__main__':
     '''4. USE THE DATA ARRAY'''
     pass
 
-    '''5. DEFINE THE START TIME'''
+    '''5. DEFINE THE END TIME'''
     end = time.time()
     print(f'Took {end-start} seconds to complete')
